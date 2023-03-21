@@ -41,8 +41,6 @@ class Controls{
                     this.reverse = false;
                     break
             }
-            console.table(this)
-            console.log(event.key)
         }
     }
 
